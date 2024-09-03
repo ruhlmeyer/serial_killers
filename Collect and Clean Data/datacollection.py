@@ -20,4 +20,4 @@ for table in tables:
 df = pd.concat(data)
 
 # Save DataFrame to CSV
-df.to_csv(r'.\data\serial_killers.csv', index=False)
+df.to_csv(r'.\data\serial_killers_wiki.csv', index=False)
