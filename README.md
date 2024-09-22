@@ -1,6 +1,6 @@
 # Serial Killer Analysis
 
-Spencer, 
+Dear Spency, 
 
 It was lovely meeting you in Austin the other day for Hannah's party, which she totally planned and then rudely forgot about.
 
